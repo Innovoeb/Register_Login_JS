@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Innovoeb",
+      "password": "beovonni10"
+    },
+    {
+      "id": 2,
+      "username": "Nuclues",
+      "password": "JamOnIt"
+    },
+    {
+      "usernameInput": {},
+      "passwordInput": {},
+      "id": 3
+    },
+    {
+      "username": "Bartholomew",
+      "password": "booty",
+      "id": 4
+    },
+    {
+      "username": "Foobar",
+      "password": "password",
+      "id": 5
+    }
+  ]
+}
